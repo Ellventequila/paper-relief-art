@@ -1,0 +1,4 @@
+interface:
+  display_name: "纸境浮绘·无字版 · Paper Relief Art without Text"
+  short_description: "保留摄影主体与大面积留白，以局部纸浆起伏和矿物颜料晕染生成无新增文字的艺术配图"
+  default_prompt: "Use $paper-relief-art-no-text to transform these photos into paper relief art with generous quiet paper space, recognizable photographic subjects, local pulp fibers and pigment diffusion, without adding typography. Generate the edited image."

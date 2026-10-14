@@ -1,0 +1,4 @@
+interface:
+  display_name: "纸境浮绘·有字版 · Paper Relief Art with Text"
+  short_description: "从画面提炼古雅题名并筛选候选，搭配轻量中英排版，呈现留白充裕的纸浆艺术海报"
+  default_prompt: "Use $paper-relief-art-text to create paper relief art from these photos with generous quiet paper space and recognizable subjects, adding refined editorial typography with a slender light Chinese title, much smaller English translation, a short source-color line and sparse contextual micro-text. Generate the edited image."
